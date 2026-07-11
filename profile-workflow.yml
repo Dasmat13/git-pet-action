@@ -1,0 +1,38 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Copy this file to YOUR PROFILE REPO:
+#   Dasmat13/Dasmat13/.github/workflows/pet.yml
+#
+# Then add this to your profile README.md:
+#   ![GitPet](https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/pet.svg)
+# ─────────────────────────────────────────────────────────────────────────────
+
+name: GitPet — Update Profile
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # Runs daily at 22:00 UTC
+  workflow_dispatch:         # Allow manual trigger
+
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitPet SVG
+        uses: Dasmat13/git-pet-action@main
+        with:
+          github_user_name: ${{ github.actor }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/pet.svg
+
+      - name: Commit & Push SVG
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/pet.svg
+          git diff --cached --quiet || git commit -m "👾 Update GitPet [$(date +'%Y-%m-%d')]"
+          git push
