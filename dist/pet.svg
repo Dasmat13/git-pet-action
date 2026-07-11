@@ -1,0 +1,338 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 900 260" width="900" height="260"
+     style="border-radius:12px;overflow:hidden;background:#1e272e">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2c3e50"/>
+      <stop offset="100%" stop-color="#1a252f"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Terrarium Glass Backing Sky -->
+  <rect width="900" height="260" fill="url(#sky)"/>
+
+  <!-- Plants & Mushrooms in the background -->
+  
+        <line x1="8.653846153846153" y1="210" x2="8.653846153846153" y2="189" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
+        <circle class="plant" cx="8.653846153846153" cy="189" r="4" fill="#27ae60"/>
+        <circle cx="8.653846153846153" cy="189" r="1.5" fill="#fff"/>
+      
+  
+        <path d="M 22.96153846153846,210 L 23.96153846153846,186 L 27.96153846153846,186 L 28.96153846153846,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 17.96153846153846,186 C -8,-20 8,-20 33.96153846153846,186 Z" fill="#9b59b6" transform="translate(25.96153846153846, 186) translate(-25.96153846153846, -186)"/>
+        <circle cx="23.96153846153846" cy="183" r="1" fill="#fff"/>
+        <circle cx="28.96153846153846" cy="184" r="0.8" fill="#fff"/>
+      
+  
+        <line x1="43.26923076923077" y1="210" x2="43.26923076923077" y2="188" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
+        <circle class="plant" cx="43.26923076923077" cy="188" r="4" fill="#e74c3c"/>
+        <circle cx="43.26923076923077" cy="188" r="1.5" fill="#fff"/>
+      
+  
+        <line x1="60.57692307692307" y1="210" x2="60.57692307692307" y2="189" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
+        <circle class="plant" cx="60.57692307692307" cy="189" r="4" fill="#e74c3c"/>
+        <circle cx="60.57692307692307" cy="189" r="1.5" fill="#fff"/>
+      
+  <path class="plant" d="M 77.88461538461539,210 Q 74.88461538461539,202 77.88461538461539,194 T 80.88461538461539,190" fill="none" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 95.19230769230768,210 Q 92.19230769230768,203 95.19230769230768,196 T 98.19230769230768,192" fill="none" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 112.5,210 Q 109.5,203 112.5,196 T 115.5,192" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+  
+  
+        <line x1="147.1153846153846" y1="210" x2="147.1153846153846" y2="190" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
+        <circle class="plant" cx="147.1153846153846" cy="190" r="4" fill="#f1c40f"/>
+        <circle cx="147.1153846153846" cy="190" r="1.5" fill="#fff"/>
+      
+  
+  
+  
+  
+  <path class="plant" d="M 233.65384615384616,210 Q 230.65384615384616,202 233.65384615384616,194 T 236.65384615384616,190" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 250.96153846153845,210 Q 247.96153846153845,201 250.96153846153845,192 T 253.96153846153845,188" fill="none" stroke="#2ecc71" stroke-width="2.5" stroke-linecap="round"/>
+  
+        <line x1="268.2692307692307" y1="210" x2="268.2692307692307" y2="190" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
+        <circle class="plant" cx="268.2692307692307" cy="190" r="4" fill="#e67e22"/>
+        <circle cx="268.2692307692307" cy="190" r="1.5" fill="#fff"/>
+      
+  <path class="plant" d="M 285.57692307692304,210 Q 282.57692307692304,205 285.57692307692304,200 T 288.57692307692304,196" fill="none" stroke="#9b59b6" stroke-width="2.5" stroke-linecap="round"/>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <path class="plant" d="M 458.65384615384613,210 Q 455.65384615384613,205 458.65384615384613,200 T 461.65384615384613,196" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 475.9615384615384,210 Q 472.9615384615384,203 475.9615384615384,196 T 478.9615384615384,192" fill="none" stroke="#9b59b6" stroke-width="2.5" stroke-linecap="round"/>
+  
+  
+  
+  
+  
+  
+  
+  
+  <path class="plant" d="M 631.7307692307693,210 Q 628.7307692307693,202 631.7307692307693,194 T 634.7307692307693,190" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+  
+        <line x1="649.0384615384615" y1="210" x2="649.0384615384615" y2="191" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
+        <circle class="plant" cx="649.0384615384615" cy="191" r="4" fill="#2ecc71"/>
+        <circle cx="649.0384615384615" cy="191" r="1.5" fill="#fff"/>
+      
+  <path class="plant" d="M 666.3461538461538,210 Q 663.3461538461538,205 666.3461538461538,200 T 669.3461538461538,196" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+  
+        <path d="M 680.6538461538462,210 L 681.6538461538462,184 L 685.6538461538462,184 L 686.6538461538462,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 675.6538461538462,184 C -8,-20 8,-20 691.6538461538462,184 Z" fill="#9b59b6" transform="translate(683.6538461538462, 184) translate(-683.6538461538462, -184)"/>
+        <circle cx="681.6538461538462" cy="181" r="1" fill="#fff"/>
+        <circle cx="686.6538461538462" cy="182" r="0.8" fill="#fff"/>
+      
+  
+        <path d="M 697.9615384615385,210 L 698.9615384615385,185 L 702.9615384615385,185 L 703.9615384615385,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 692.9615384615385,185 C -8,-20 8,-20 708.9615384615385,185 Z" fill="#e74c3c" transform="translate(700.9615384615385, 185) translate(-700.9615384615385, -185)"/>
+        <circle cx="698.9615384615385" cy="182" r="1" fill="#fff"/>
+        <circle cx="703.9615384615385" cy="183" r="0.8" fill="#fff"/>
+      
+  <path class="plant" d="M 718.2692307692307,210 Q 715.2692307692307,202 718.2692307692307,194 T 721.2692307692307,190" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 735.5769230769231,210 Q 732.5769230769231,202 735.5769230769231,194 T 738.5769230769231,190" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 752.8846153846154,210 Q 749.8846153846154,202 752.8846153846154,194 T 755.8846153846154,190" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+  
+  <path class="plant" d="M 787.5,210 Q 784.5,201 787.5,192 T 790.5,188" fill="none" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 804.8076923076923,210 Q 801.8076923076923,201 804.8076923076923,192 T 807.8076923076923,188" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+  
+        <path d="M 819.1153846153846,210 L 820.1153846153846,185 L 824.1153846153846,185 L 825.1153846153846,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 814.1153846153846,185 C -8,-20 8,-20 830.1153846153846,185 Z" fill="#e74c3c" transform="translate(822.1153846153846, 185) translate(-822.1153846153846, -185)"/>
+        <circle cx="820.1153846153846" cy="182" r="1" fill="#fff"/>
+        <circle cx="825.1153846153846" cy="183" r="0.8" fill="#fff"/>
+      
+  <path class="plant" d="M 839.4230769230769,210 Q 836.4230769230769,205 839.4230769230769,200 T 842.4230769230769,196" fill="none" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/>
+  
+        <line x1="856.7307692307692" y1="210" x2="856.7307692307692" y2="190" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
+        <circle class="plant" cx="856.7307692307692" cy="190" r="4" fill="#27ae60"/>
+        <circle cx="856.7307692307692" cy="190" r="1.5" fill="#fff"/>
+      
+  
+        <path d="M 871.0384615384615,210 L 872.0384615384615,185 L 876.0384615384615,185 L 877.0384615384615,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 866.0384615384615,185 C -8,-20 8,-20 882.0384615384615,185 Z" fill="#f1c40f" transform="translate(874.0384615384615, 185) translate(-874.0384615384615, -185)"/>
+        <circle cx="872.0384615384615" cy="182" r="1" fill="#fff"/>
+        <circle cx="877.0384615384615" cy="183" r="0.8" fill="#fff"/>
+      
+  
+        <path d="M 888.3461538461538,210 L 889.3461538461538,170 L 893.3461538461538,170 L 894.3461538461538,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 883.3461538461538,170 C -8,-20 8,-20 899.3461538461538,170 Z" fill="#f1c40f" transform="translate(891.3461538461538, 170) translate(-891.3461538461538, -170)"/>
+        <circle cx="889.3461538461538" cy="167" r="1" fill="#fff"/>
+        <circle cx="894.3461538461538" cy="168" r="0.8" fill="#fff"/>
+      
+
+  <!-- Dirt / Grass Ground bed -->
+  <rect x="0" y="210" width="900" height="50" fill="#8c7e5a"/>
+  <!-- Grass blades along the top edge of ground -->
+  <path d="M 0,210 Q 25,205 50,210 T 100,210 T 150,210 T 200,210 T 250,210 T 300,210 T 350,210 T 400,210 T 450,210 T 500,210 T 550,210 T 600,210 T 650,210 T 700,210 T 750,210 T 800,210 T 850,210 T 900,210" fill="none" stroke="#2ecc71" stroke-width="2"/>
+
+  <!-- Dust bunnies (messy unresolved bugs) floating around -->
+  
+      <g transform="translate(212, 168)" class="dust-bunny" style="animation-delay:0.0s">
+        <!-- Spiky dust bunny -->
+        <circle cx="0" cy="0" r="5" fill="#718093" opacity="0.6"/>
+        <path d="M -5,0 L -8,-2 M 5,0 L 8,2 M 0,-5 L 2,-8 M 0,5 L -2,8" stroke="#718093" stroke-width="1" opacity="0.8"/>
+        <!-- Glancing eyes -->
+        <circle cx="-1.5" cy="-1" r="0.5" fill="#fff"/>
+        <circle cx="1.5" cy="-1" r="0.5" fill="#fff"/>
+      </g>
+    
+
+      <g transform="translate(374, 156)" class="dust-bunny" style="animation-delay:0.4s">
+        <!-- Spiky dust bunny -->
+        <circle cx="0" cy="0" r="5" fill="#718093" opacity="0.6"/>
+        <path d="M -5,0 L -8,-2 M 5,0 L 8,2 M 0,-5 L 2,-8 M 0,5 L -2,8" stroke="#718093" stroke-width="1" opacity="0.8"/>
+        <!-- Glancing eyes -->
+        <circle cx="-1.5" cy="-1" r="0.5" fill="#fff"/>
+        <circle cx="1.5" cy="-1" r="0.5" fill="#fff"/>
+      </g>
+    
+
+      <g transform="translate(536, 144)" class="dust-bunny" style="animation-delay:0.8s">
+        <!-- Spiky dust bunny -->
+        <circle cx="0" cy="0" r="5" fill="#718093" opacity="0.6"/>
+        <path d="M -5,0 L -8,-2 M 5,0 L 8,2 M 0,-5 L 2,-8 M 0,5 L -2,8" stroke="#718093" stroke-width="1" opacity="0.8"/>
+        <!-- Glancing eyes -->
+        <circle cx="-1.5" cy="-1" r="0.5" fill="#fff"/>
+        <circle cx="1.5" cy="-1" r="0.5" fill="#fff"/>
+      </g>
+    
+
+      <g transform="translate(698, 132)" class="dust-bunny" style="animation-delay:1.2s">
+        <!-- Spiky dust bunny -->
+        <circle cx="0" cy="0" r="5" fill="#718093" opacity="0.6"/>
+        <path d="M -5,0 L -8,-2 M 5,0 L 8,2 M 0,-5 L 2,-8 M 0,5 L -2,8" stroke="#718093" stroke-width="1" opacity="0.8"/>
+        <!-- Glancing eyes -->
+        <circle cx="-1.5" cy="-1" r="0.5" fill="#fff"/>
+        <circle cx="1.5" cy="-1" r="0.5" fill="#fff"/>
+      </g>
+    
+
+      <g transform="translate(60, 120)" class="dust-bunny" style="animation-delay:1.6s">
+        <!-- Spiky dust bunny -->
+        <circle cx="0" cy="0" r="5" fill="#718093" opacity="0.6"/>
+        <path d="M -5,0 L -8,-2 M 5,0 L 8,2 M 0,-5 L 2,-8 M 0,5 L -2,8" stroke="#718093" stroke-width="1" opacity="0.8"/>
+        <!-- Glancing eyes -->
+        <circle cx="-1.5" cy="-1" r="0.5" fill="#fff"/>
+        <circle cx="1.5" cy="-1" r="0.5" fill="#fff"/>
+      </g>
+    
+
+      <g transform="translate(222, 108)" class="dust-bunny" style="animation-delay:2.0s">
+        <!-- Spiky dust bunny -->
+        <circle cx="0" cy="0" r="5" fill="#718093" opacity="0.6"/>
+        <path d="M -5,0 L -8,-2 M 5,0 L 8,2 M 0,-5 L 2,-8 M 0,5 L -2,8" stroke="#718093" stroke-width="1" opacity="0.8"/>
+        <!-- Glancing eyes -->
+        <circle cx="-1.5" cy="-1" r="0.5" fill="#fff"/>
+        <circle cx="1.5" cy="-1" r="0.5" fill="#fff"/>
+      </g>
+    
+
+  <!-- Toys laying on ground -->
+  <circle cx="708" cy="205" r="4" fill="#e74c3c" stroke="#c0392b" stroke-width="0.8"/>
+              <path d="M 704.5,205 Q 708,205 711.5,205" fill="none" stroke="#fff" stroke-width="0.8"/>
+  <path d="M 660,209 L 672,209 L 670,204 L 662,204 Z" fill="#95a5a6"/>
+              <ellipse cx="666" cy="204" rx="4" ry="1.5" fill="#e67e22"/> <!-- food inside -->
+
+  <!-- The Pet (bobs up/down, sleeps, walks) -->
+  
+    <g class="pet-idle" transform="translate(450, 210)">
+      
+      
+          <g transform="scale(1)">
+            <!-- Body -->
+            <ellipse cx="0" cy="-7" rx="9" ry="7" fill="#ff9f43"/>
+            <!-- Snout/Face -->
+            <polygon points="-4,-7 4,-7 0,-3" fill="#ff6b6b"/>
+            <circle cx="0" cy="-3.5" r="0.8" fill="#000"/> <!-- nose -->
+            <!-- Eyes -->
+            <circle cx="-3.5" cy="-9" r="1.2" fill="#000"/>
+            <circle cx="3.5" cy="-9" r="1.2" fill="#000"/>
+            <!-- Ears -->
+            <polygon points="-8,-12 -8,-18 -3,-13" fill="#ff9f43"/>
+            <polygon points="8,-12 8,-18 3,-13" fill="#ff9f43"/>
+            <polygon points="-7,-13 -7,-16 -4,-13" fill="#ff6b6b"/>
+            <polygon points="7,-13 7,-16 4,-13" fill="#ff6b6b"/>
+            <!-- Fluffy Tail -->
+            <path class="pet-tail" d="M -9,-6 Q -18,-15 -14,-2 Z" fill="#ff9f43"/>
+            <path class="pet-tail" d="M -14,-2 Q -18,-15 -14,-7 Z" fill="#ff6b6b"/>
+          </g>
+        
+      
+      
+        <path class="plant" d="M 14,-18 Q 19,-26 16,-30" fill="none" stroke="#54a0ff" stroke-width="2" stroke-linecap="round"/>
+      
+    </g>
+  
+
+  <!-- Glass container glare overlays (makes it look like a physical terrarium) -->
+  <rect x="10" y="10" width="880" height="240" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" rx="8"/>
+  <path d="M 12,20 L 150,20 Q 200,20 180,60 L 50,60 Z" fill="rgba(255,255,255,0.03)"/>
+
+  <!-- HUD overlay showing Tamagotchi status indicators -->
+  
+  <!-- Info Banner -->
+  <g>
+    <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="rgba(255,255,255,0.1)"/>
+    <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
+      👾 Dasmat13's FOX (Lvl TEEN)
+    </text>
+  </g>
+
+  <!-- Tamagotchi Status Meters (Hunger, Fun, Health) -->
+  <g transform="translate(650, 8)">
+    <rect x="0" y="0" width="240" height="52" rx="4" fill="rgba(0,0,0,0.6)" stroke="rgba(255,255,255,0.1)"/>
+    
+    <!-- Hunger Meter (Commits) -->
+    <text x="8" y="16" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">FOOD  [█████]</text>
+    <!-- Fun Meter (Stars) -->
+    <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">PLAY  [█░░░░]</text>
+    <!-- Health Meter (Streak) -->
+    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">HEALTH[███░░]</text>
+  </g>
+  
+
+  <style>
+    /* Pet bobbing/breathing animation */
+    .pet-idle {
+      animation: pet-bob 4s ease-in-out infinite alternate;
+    }
+    @keyframes pet-bob {
+      0%   { transform: translate(450px, 210px) scaleY(0.96) scaleX(1.02); }
+      100% { transform: translate(450px, 204px) scaleY(1.02) scaleX(0.98); }
+    }
+
+    /* Wiggling Fox/Child tail */
+    .pet-tail {
+      animation: tail-wag 0.8s ease-in-out infinite alternate;
+      transform-origin: -9px -6px;
+    }
+    @keyframes tail-wag {
+      from { transform: rotate(-8deg); }
+      to   { transform: rotate(10deg); }
+    }
+
+    /* Flapping dragon wings */
+    .pet-wing-l {
+      animation: wing-flap-l 0.6s ease-in-out infinite alternate;
+      transform-origin: -6px -10px;
+    }
+    .pet-wing-r {
+      animation: wing-flap-r 0.6s ease-in-out infinite alternate;
+      transform-origin: 6px -10px;
+    }
+    @keyframes wing-flap-l {
+      from { transform: rotate(-10deg); }
+      to   { transform: rotate(15deg); }
+    }
+    @keyframes wing-flap-r {
+      from { transform: rotate(10deg); }
+      to   { transform: rotate(-15deg); }
+    }
+
+    /* Golem visor pulse */
+    .golem-visor {
+      animation: visor-glow 2s ease-in-out infinite alternate;
+    }
+    @keyframes visor-glow {
+      from { fill: #00ffff; filter: brightness(0.8); }
+      to   { fill: #00e5ff; filter: brightness(1.5); }
+    }
+
+    /* Waving terrarium flora */
+    .plant {
+      animation: flora-wave 3s ease-in-out infinite alternate;
+      transform-origin: bottom center;
+    }
+    @keyframes flora-wave {
+      from { transform: skewX(-4deg); }
+      to   { transform: skewX(4deg); }
+    }
+
+    /* Dust bunnies floating */
+    .dust-bunny {
+      animation: bunny-float 5s ease-in-out infinite alternate;
+    }
+    @keyframes bunny-float {
+      0%   { transform: translate(0, 0); }
+      100% { transform: translate(10px, -15px) rotate(15deg); }
+    }
+
+    /* Legendary aura floating particles */
+    .aura-particle {
+      animation: particle-rise 2s infinite ease-in-out;
+    }
+    @keyframes particle-rise {
+      0%   { transform: translateY(0px) scale(0.5); opacity: 0; }
+      50%  { opacity: 0.8; }
+      100% { transform: translateY(-20px) scale(1.1); opacity: 0; }
+    }
+  </style>
+</svg>
