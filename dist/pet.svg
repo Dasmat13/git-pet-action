@@ -216,32 +216,17 @@
 
   <!-- The Pet (bobs up/down, sleeps, walks) -->
   
-    <g class="pet-idle" transform="translate(450, 210)">
-      
-      
-          <g transform="scale(1)">
-            <!-- Body -->
-            <ellipse cx="0" cy="-8" rx="8" ry="8" fill="#54a0ff"/>
-            <path d="M 0,0 L 2,6 L -2,6 Z" fill="#5f27cd"/>
-            <!-- Wings -->
-            <path class="pet-wing-l" d="M -6,-10 Q -18,-14 -12,-4 Z" fill="#5f27cd" opacity="0.8"/>
-            <path class="pet-wing-r" d="M 6,-10 Q 18,-14 12,-4 Z" fill="#5f27cd" opacity="0.8"/>
-            <!-- Head & Horns -->
-            <circle cx="0" cy="-17" r="5" fill="#54a0ff"/>
-            <path d="M -3,-22 L -1,-19 M 3,-22 L 1,-19" stroke="#5f27cd" stroke-width="2" stroke-linecap="round"/>
-            <!-- Eyes -->
-            <circle cx="-2" cy="-17" r="1" fill="#000"/>
-            <circle cx="2" cy="-17" r="1" fill="#000"/>
-            <!-- Tail -->
-            <path d="M -8,-6 Q -15,-2 -18,-8" fill="none" stroke="#54a0ff" stroke-width="2.5" stroke-linecap="round"/>
-          </g>
-        
-      
-      
-        <path class="plant" d="M 14,-18 Q 19,-26 16,-30" fill="none" stroke="#54a0ff" stroke-width="2" stroke-linecap="round"/>
-      
-    </g>
-  
+      <g class="pet-idle pet-egg" transform="translate(450, 210)">
+        <!-- Wobbling Egg -->
+        <ellipse cx="0" cy="-10" rx="8" ry="10" fill="#f5f6fa" stroke="#dcdde1" stroke-width="1.5"/>
+        <!-- Egg spots -->
+        <circle cx="-3" cy="-12" r="1.5" fill="#54a0ff"/>
+        <circle cx="3" cy="-7" r="2" fill="#5f27cd"/>
+        <circle cx="2" cy="-14" r="1" fill="#54a0ff"/>
+        <!-- Crack / Sleep dots -->
+        <text x="12" y="-15" font-family="monospace" font-size="8" fill="#fff" opacity="0.6">zZ</text>
+      </g>
+    
 
   <!-- Glass container glare overlays (makes it look like a physical terrarium) -->
   <rect x="10" y="10" width="880" height="240" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" rx="8"/>
@@ -253,7 +238,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="rgba(255,255,255,0.1)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      👾 Dasmat13's DRAGON (Lvl TEEN)
+      👾 Dasmat13's DRAGON (Lvl EGG)
     </text>
   </g>
 
@@ -266,7 +251,7 @@
     <!-- Fun Meter (Stars) -->
     <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">PLAY  [█░░░░]</text>
     <!-- Health Meter (Streak) -->
-    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">HEALTH[█████]</text>
+    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">HEALTH[░░░░░]</text>
   </g>
   
 
