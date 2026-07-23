@@ -123,10 +123,10 @@
         <circle cx="877.0384615384615" cy="172" r="0.8" fill="#fff"/>
       
   
-        <path d="M 888.3461538461538,210 L 889.3461538461538,184 L 893.3461538461538,184 L 894.3461538461538,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 883.3461538461538,184 C -8,-20 8,-20 899.3461538461538,184 Z" fill="#e74c3c" transform="translate(891.3461538461538, 184) translate(-891.3461538461538, -184)"/>
-        <circle cx="889.3461538461538" cy="181" r="1" fill="#fff"/>
-        <circle cx="894.3461538461538" cy="182" r="0.8" fill="#fff"/>
+        <path d="M 888.3461538461538,210 L 889.3461538461538,182 L 893.3461538461538,182 L 894.3461538461538,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 883.3461538461538,182 C -8,-20 8,-20 899.3461538461538,182 Z" fill="#e67e22" transform="translate(891.3461538461538, 182) translate(-891.3461538461538, -182)"/>
+        <circle cx="889.3461538461538" cy="179" r="1" fill="#fff"/>
+        <circle cx="894.3461538461538" cy="180" r="0.8" fill="#fff"/>
       
 
   <!-- Dirt / Grass Ground bed -->
@@ -271,7 +271,7 @@
     <!-- Hunger Meter (Commits) -->
     <text x="8" y="16" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">FOOD  [█████]</text>
     <!-- Fun Meter (Stars) -->
-    <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">PLAY  [█░░░░]</text>
+    <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">PLAY  [██░░░]</text>
     <!-- Health Meter (Streak) -->
     <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">HEALTH[█████]</text>
   </g>
