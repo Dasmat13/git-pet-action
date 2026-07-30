@@ -123,7 +123,12 @@
         <circle cx="872.0384615384615" cy="179" r="1" fill="#fff"/>
         <circle cx="877.0384615384615" cy="180" r="0.8" fill="#fff"/>
       
-  <path class="plant" d="M 891.3461538461538,210 Q 888.3461538461538,201 891.3461538461538,192 T 894.3461538461538,188" fill="none" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/>
+  
+        <path d="M 888.3461538461538,210 L 889.3461538461538,186 L 893.3461538461538,186 L 894.3461538461538,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 883.3461538461538,186 C -8,-20 8,-20 899.3461538461538,186 Z" fill="#27ae60" transform="translate(891.3461538461538, 186) translate(-891.3461538461538, -186)"/>
+        <circle cx="889.3461538461538" cy="183" r="1" fill="#fff"/>
+        <circle cx="894.3461538461538" cy="184" r="0.8" fill="#fff"/>
+      
 
   <!-- Dirt / Grass Ground bed -->
   <rect x="0" y="210" width="900" height="50" fill="#566573"/>
@@ -256,7 +261,7 @@
     <!-- Fun Meter (Stars) -->
     <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">PLAY  [██░░░]</text>
     <!-- Health Meter (Streak) -->
-    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">HEALTH[█░░░░]</text>
+    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">HEALTH[██░░░]</text>
   </g>
   
 
