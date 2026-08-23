@@ -17,25 +17,24 @@
   <rect width="900" height="260" fill="url(#sky)"/>
 
   <!-- Plants & Mushrooms in the background -->
-  <path class="plant" d="M 8.653846153846153,210 Q 5.653846153846153,203 8.653846153846153,196 T 11.653846153846153,192" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
   
   
-        <line x1="43.26923076923077" y1="210" x2="43.26923076923077" y2="190" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
-        <circle class="plant" cx="43.26923076923077" cy="190" r="4" fill="#f1c40f"/>
-        <circle cx="43.26923076923077" cy="190" r="1.5" fill="#fff"/>
+        <line x1="25.96153846153846" y1="210" x2="25.96153846153846" y2="190" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
+        <circle class="plant" cx="25.96153846153846" cy="190" r="4" fill="#27ae60"/>
+        <circle cx="25.96153846153846" cy="190" r="1.5" fill="#fff"/>
       
   
   
   
   
-  <path class="plant" d="M 129.8076923076923,210 Q 126.80769230769229,202 129.8076923076923,194 T 132.8076923076923,190" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
-  <path class="plant" d="M 147.1153846153846,210 Q 144.1153846153846,201 147.1153846153846,192 T 150.1153846153846,188" fill="none" stroke="#2ecc71" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 112.5,210 Q 109.5,202 112.5,194 T 115.5,190" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 129.8076923076923,210 Q 126.80769230769229,201 129.8076923076923,192 T 132.8076923076923,188" fill="none" stroke="#9b59b6" stroke-width="2.5" stroke-linecap="round"/>
   
-        <line x1="164.42307692307693" y1="210" x2="164.42307692307693" y2="190" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
-        <circle class="plant" cx="164.42307692307693" cy="190" r="4" fill="#e67e22"/>
-        <circle cx="164.42307692307693" cy="190" r="1.5" fill="#fff"/>
+        <line x1="147.1153846153846" y1="210" x2="147.1153846153846" y2="190" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
+        <circle class="plant" cx="147.1153846153846" cy="190" r="4" fill="#f1c40f"/>
+        <circle cx="147.1153846153846" cy="190" r="1.5" fill="#fff"/>
       
-  <path class="plant" d="M 181.73076923076923,210 Q 178.73076923076923,205 181.73076923076923,200 T 184.73076923076923,196" fill="none" stroke="#9b59b6" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 164.42307692307693,210 Q 161.42307692307693,205 164.42307692307693,200 T 167.42307692307693,196" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
   
   
   
@@ -45,8 +44,8 @@
   
   
   
-  <path class="plant" d="M 354.80769230769226,210 Q 351.80769230769226,205 354.80769230769226,200 T 357.80769230769226,196" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
-  <path class="plant" d="M 372.1153846153846,210 Q 369.1153846153846,203 372.1153846153846,196 T 375.1153846153846,192" fill="none" stroke="#9b59b6" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 337.49999999999994,210 Q 334.49999999999994,205 337.49999999999994,200 T 340.49999999999994,196" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 354.80769230769226,210 Q 351.80769230769226,203 354.80769230769226,196 T 357.80769230769226,192" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
   
   
   
@@ -55,91 +54,92 @@
   
   
   
-  <path class="plant" d="M 527.8846153846154,210 Q 524.8846153846154,202 527.8846153846154,194 T 530.8846153846154,190" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 510.57692307692304,210 Q 507.57692307692304,202 510.57692307692304,194 T 513.5769230769231,190" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
   
-        <line x1="545.1923076923077" y1="210" x2="545.1923076923077" y2="191" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
-        <circle class="plant" cx="545.1923076923077" cy="191" r="4" fill="#2ecc71"/>
-        <circle cx="545.1923076923077" cy="191" r="1.5" fill="#fff"/>
+        <line x1="527.8846153846154" y1="210" x2="527.8846153846154" y2="191" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
+        <circle class="plant" cx="527.8846153846154" cy="191" r="4" fill="#9b59b6"/>
+        <circle cx="527.8846153846154" cy="191" r="1.5" fill="#fff"/>
       
-  <path class="plant" d="M 562.5,210 Q 559.5,205 562.5,200 T 565.5,196" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 545.1923076923077,210 Q 542.1923076923077,205 545.1923076923077,200 T 548.1923076923077,196" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
   
-        <path d="M 576.8076923076923,210 L 577.8076923076923,184 L 581.8076923076923,184 L 582.8076923076923,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 571.8076923076923,184 C -8,-20 8,-20 587.8076923076923,184 Z" fill="#9b59b6" transform="translate(579.8076923076923, 184) translate(-579.8076923076923, -184)"/>
-        <circle cx="577.8076923076923" cy="181" r="1" fill="#fff"/>
-        <circle cx="582.8076923076923" cy="182" r="0.8" fill="#fff"/>
+        <path d="M 559.5,210 L 560.5,184 L 564.5,184 L 565.5,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 554.5,184 C -8,-20 8,-20 570.5,184 Z" fill="#e74c3c" transform="translate(562.5, 184) translate(-562.5, -184)"/>
+        <circle cx="560.5" cy="181" r="1" fill="#fff"/>
+        <circle cx="565.5" cy="182" r="0.8" fill="#fff"/>
       
   
-        <path d="M 594.1153846153846,210 L 595.1153846153846,185 L 599.1153846153846,185 L 600.1153846153846,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 589.1153846153846,185 C -8,-20 8,-20 605.1153846153846,185 Z" fill="#e74c3c" transform="translate(597.1153846153846, 185) translate(-597.1153846153846, -185)"/>
-        <circle cx="595.1153846153846" cy="182" r="1" fill="#fff"/>
-        <circle cx="600.1153846153846" cy="183" r="0.8" fill="#fff"/>
+        <path d="M 576.8076923076923,210 L 577.8076923076923,185 L 581.8076923076923,185 L 582.8076923076923,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 571.8076923076923,185 C -8,-20 8,-20 587.8076923076923,185 Z" fill="#e67e22" transform="translate(579.8076923076923, 185) translate(-579.8076923076923, -185)"/>
+        <circle cx="577.8076923076923" cy="182" r="1" fill="#fff"/>
+        <circle cx="582.8076923076923" cy="183" r="0.8" fill="#fff"/>
       
+  <path class="plant" d="M 597.1153846153846,210 Q 594.1153846153846,202 597.1153846153846,194 T 600.1153846153846,190" fill="none" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/>
   <path class="plant" d="M 614.4230769230769,210 Q 611.4230769230769,202 614.4230769230769,194 T 617.4230769230769,190" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
   <path class="plant" d="M 631.7307692307693,210 Q 628.7307692307693,202 631.7307692307693,194 T 634.7307692307693,190" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
-  <path class="plant" d="M 649.0384615384615,210 Q 646.0384615384615,202 649.0384615384615,194 T 652.0384615384615,190" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
   
+  <path class="plant" d="M 666.3461538461538,210 Q 663.3461538461538,201 666.3461538461538,192 T 669.3461538461538,188" fill="none" stroke="#2ecc71" stroke-width="2.5" stroke-linecap="round"/>
   <path class="plant" d="M 683.6538461538462,210 Q 680.6538461538462,201 683.6538461538462,192 T 686.6538461538462,188" fill="none" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/>
-  <path class="plant" d="M 700.9615384615385,210 Q 697.9615384615385,201 700.9615384615385,192 T 703.9615384615385,188" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
   
-        <path d="M 715.2692307692307,210 L 716.2692307692307,186 L 720.2692307692307,186 L 721.2692307692307,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 710.2692307692307,186 C -8,-20 8,-20 726.2692307692307,186 Z" fill="#e74c3c" transform="translate(718.2692307692307, 186) translate(-718.2692307692307, -186)"/>
-        <circle cx="716.2692307692307" cy="183" r="1" fill="#fff"/>
-        <circle cx="721.2692307692307" cy="184" r="0.8" fill="#fff"/>
+        <path d="M 697.9615384615385,210 L 698.9615384615385,186 L 702.9615384615385,186 L 703.9615384615385,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 692.9615384615385,186 C -8,-20 8,-20 708.9615384615385,186 Z" fill="#e67e22" transform="translate(700.9615384615385, 186) translate(-700.9615384615385, -186)"/>
+        <circle cx="698.9615384615385" cy="183" r="1" fill="#fff"/>
+        <circle cx="703.9615384615385" cy="184" r="0.8" fill="#fff"/>
       
-  <path class="plant" d="M 735.5769230769231,210 Q 732.5769230769231,205 735.5769230769231,200 T 738.5769230769231,196" fill="none" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 718.2692307692307,210 Q 715.2692307692307,205 718.2692307692307,200 T 721.2692307692307,196" fill="none" stroke="#2ecc71" stroke-width="2.5" stroke-linecap="round"/>
   
-        <line x1="752.8846153846154" y1="210" x2="752.8846153846154" y2="190" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
-        <circle class="plant" cx="752.8846153846154" cy="190" r="4" fill="#27ae60"/>
-        <circle cx="752.8846153846154" cy="190" r="1.5" fill="#fff"/>
-      
-  
-        <path d="M 767.1923076923076,210 L 768.1923076923076,185 L 772.1923076923076,185 L 773.1923076923076,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 762.1923076923076,185 C -8,-20 8,-20 778.1923076923076,185 Z" fill="#f1c40f" transform="translate(770.1923076923076, 185) translate(-770.1923076923076, -185)"/>
-        <circle cx="768.1923076923076" cy="182" r="1" fill="#fff"/>
-        <circle cx="773.1923076923076" cy="183" r="0.8" fill="#fff"/>
+        <line x1="735.5769230769231" y1="210" x2="735.5769230769231" y2="190" stroke="#78e08f" stroke-width="1.5" stroke-linecap="round"/>
+        <circle class="plant" cx="735.5769230769231" cy="190" r="4" fill="#2ecc71"/>
+        <circle cx="735.5769230769231" cy="190" r="1.5" fill="#fff"/>
       
   
-        <path d="M 784.5,210 L 785.5,170 L 789.5,170 L 790.5,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 779.5,170 C -8,-20 8,-20 795.5,170 Z" fill="#9b59b6" transform="translate(787.5, 170) translate(-787.5, -170)"/>
-        <circle cx="785.5" cy="167" r="1" fill="#fff"/>
-        <circle cx="790.5" cy="168" r="0.8" fill="#fff"/>
+        <path d="M 749.8846153846154,210 L 750.8846153846154,185 L 754.8846153846154,185 L 755.8846153846154,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 744.8846153846154,185 C -8,-20 8,-20 760.8846153846154,185 Z" fill="#27ae60" transform="translate(752.8846153846154, 185) translate(-752.8846153846154, -185)"/>
+        <circle cx="750.8846153846154" cy="182" r="1" fill="#fff"/>
+        <circle cx="755.8846153846154" cy="183" r="0.8" fill="#fff"/>
       
   
-        <path d="M 801.8076923076923,210 L 802.8076923076923,174 L 806.8076923076923,174 L 807.8076923076923,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 796.8076923076923,174 C -8,-20 8,-20 812.8076923076923,174 Z" fill="#9b59b6" transform="translate(804.8076923076923, 174) translate(-804.8076923076923, -174)"/>
-        <circle cx="802.8076923076923" cy="171" r="1" fill="#fff"/>
-        <circle cx="807.8076923076923" cy="172" r="0.8" fill="#fff"/>
+        <path d="M 767.1923076923076,210 L 768.1923076923076,170 L 772.1923076923076,170 L 773.1923076923076,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 762.1923076923076,170 C -8,-20 8,-20 778.1923076923076,170 Z" fill="#e74c3c" transform="translate(770.1923076923076, 170) translate(-770.1923076923076, -170)"/>
+        <circle cx="768.1923076923076" cy="167" r="1" fill="#fff"/>
+        <circle cx="773.1923076923076" cy="168" r="0.8" fill="#fff"/>
       
   
-        <path d="M 819.1153846153846,210 L 820.1153846153846,178 L 824.1153846153846,178 L 825.1153846153846,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 814.1153846153846,178 C -8,-20 8,-20 830.1153846153846,178 Z" fill="#2ecc71" transform="translate(822.1153846153846, 178) translate(-822.1153846153846, -178)"/>
-        <circle cx="820.1153846153846" cy="175" r="1" fill="#fff"/>
-        <circle cx="825.1153846153846" cy="176" r="0.8" fill="#fff"/>
+        <path d="M 784.5,210 L 785.5,174 L 789.5,174 L 790.5,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 779.5,174 C -8,-20 8,-20 795.5,174 Z" fill="#e74c3c" transform="translate(787.5, 174) translate(-787.5, -174)"/>
+        <circle cx="785.5" cy="171" r="1" fill="#fff"/>
+        <circle cx="790.5" cy="172" r="0.8" fill="#fff"/>
       
   
-        <path d="M 836.4230769230769,210 L 837.4230769230769,183 L 841.4230769230769,183 L 842.4230769230769,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 831.4230769230769,183 C -8,-20 8,-20 847.4230769230769,183 Z" fill="#e67e22" transform="translate(839.4230769230769, 183) translate(-839.4230769230769, -183)"/>
-        <circle cx="837.4230769230769" cy="180" r="1" fill="#fff"/>
-        <circle cx="842.4230769230769" cy="181" r="0.8" fill="#fff"/>
+        <path d="M 801.8076923076923,210 L 802.8076923076923,178 L 806.8076923076923,178 L 807.8076923076923,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 796.8076923076923,178 C -8,-20 8,-20 812.8076923076923,178 Z" fill="#9b59b6" transform="translate(804.8076923076923, 178) translate(-804.8076923076923, -178)"/>
+        <circle cx="802.8076923076923" cy="175" r="1" fill="#fff"/>
+        <circle cx="807.8076923076923" cy="176" r="0.8" fill="#fff"/>
       
   
-        <path d="M 853.7307692307692,210 L 854.7307692307692,184 L 858.7307692307692,184 L 859.7307692307692,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 848.7307692307692,184 C -8,-20 8,-20 864.7307692307692,184 Z" fill="#e67e22" transform="translate(856.7307692307692, 184) translate(-856.7307692307692, -184)"/>
-        <circle cx="854.7307692307692" cy="181" r="1" fill="#fff"/>
-        <circle cx="859.7307692307692" cy="182" r="0.8" fill="#fff"/>
+        <path d="M 819.1153846153846,210 L 820.1153846153846,183 L 824.1153846153846,183 L 825.1153846153846,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 814.1153846153846,183 C -8,-20 8,-20 830.1153846153846,183 Z" fill="#f1c40f" transform="translate(822.1153846153846, 183) translate(-822.1153846153846, -183)"/>
+        <circle cx="820.1153846153846" cy="180" r="1" fill="#fff"/>
+        <circle cx="825.1153846153846" cy="181" r="0.8" fill="#fff"/>
       
   
-        <path d="M 871.0384615384615,210 L 872.0384615384615,177 L 876.0384615384615,177 L 877.0384615384615,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 866.0384615384615,177 C -8,-20 8,-20 882.0384615384615,177 Z" fill="#9b59b6" transform="translate(874.0384615384615, 177) translate(-874.0384615384615, -177)"/>
-        <circle cx="872.0384615384615" cy="174" r="1" fill="#fff"/>
-        <circle cx="877.0384615384615" cy="175" r="0.8" fill="#fff"/>
+        <path d="M 836.4230769230769,210 L 837.4230769230769,184 L 841.4230769230769,184 L 842.4230769230769,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 831.4230769230769,184 C -8,-20 8,-20 847.4230769230769,184 Z" fill="#f1c40f" transform="translate(839.4230769230769, 184) translate(-839.4230769230769, -184)"/>
+        <circle cx="837.4230769230769" cy="181" r="1" fill="#fff"/>
+        <circle cx="842.4230769230769" cy="182" r="0.8" fill="#fff"/>
       
   
-        <path d="M 888.3461538461538,210 L 889.3461538461538,185 L 893.3461538461538,185 L 894.3461538461538,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 883.3461538461538,185 C -8,-20 8,-20 899.3461538461538,185 Z" fill="#e67e22" transform="translate(891.3461538461538, 185) translate(-891.3461538461538, -185)"/>
-        <circle cx="889.3461538461538" cy="182" r="1" fill="#fff"/>
-        <circle cx="894.3461538461538" cy="183" r="0.8" fill="#fff"/>
+        <path d="M 853.7307692307692,210 L 854.7307692307692,177 L 858.7307692307692,177 L 859.7307692307692,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 848.7307692307692,177 C -8,-20 8,-20 864.7307692307692,177 Z" fill="#e74c3c" transform="translate(856.7307692307692, 177) translate(-856.7307692307692, -177)"/>
+        <circle cx="854.7307692307692" cy="174" r="1" fill="#fff"/>
+        <circle cx="859.7307692307692" cy="175" r="0.8" fill="#fff"/>
       
+  
+        <path d="M 871.0384615384615,210 L 872.0384615384615,185 L 876.0384615384615,185 L 877.0384615384615,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 866.0384615384615,185 C -8,-20 8,-20 882.0384615384615,185 Z" fill="#f1c40f" transform="translate(874.0384615384615, 185) translate(-874.0384615384615, -185)"/>
+        <circle cx="872.0384615384615" cy="182" r="1" fill="#fff"/>
+        <circle cx="877.0384615384615" cy="183" r="0.8" fill="#fff"/>
+      
+  
 
   <!-- Dirt / Grass Ground bed -->
   <rect x="0" y="210" width="900" height="50" fill="#566573"/>
