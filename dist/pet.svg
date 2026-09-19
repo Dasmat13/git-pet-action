@@ -115,10 +115,10 @@
         <circle cx="773.1923076923076" cy="182" r="0.8" fill="#fff"/>
       
   
-        <path d="M 784.5,210 L 785.5,184 L 789.5,184 L 790.5,210 Z" fill="#f5f6fa"/>
-        <path class="plant" d="M 779.5,184 C -8,-20 8,-20 795.5,184 Z" fill="#9b59b6" transform="translate(787.5, 184) translate(-787.5, -184)"/>
-        <circle cx="785.5" cy="181" r="1" fill="#fff"/>
-        <circle cx="790.5" cy="182" r="0.8" fill="#fff"/>
+        <path d="M 784.5,210 L 785.5,183 L 789.5,183 L 790.5,210 Z" fill="#f5f6fa"/>
+        <path class="plant" d="M 779.5,183 C -8,-20 8,-20 795.5,183 Z" fill="#2ecc71" transform="translate(787.5, 183) translate(-787.5, -183)"/>
+        <circle cx="785.5" cy="180" r="1" fill="#fff"/>
+        <circle cx="790.5" cy="181" r="0.8" fill="#fff"/>
       
   
         <path d="M 801.8076923076923,210 L 802.8076923076923,177 L 806.8076923076923,177 L 807.8076923076923,210 Z" fill="#f5f6fa"/>
@@ -288,7 +288,7 @@
     <!-- Fun Meter (Stars) -->
     <text x="8" y="30" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">PLAY  [██░░░]</text>
     <!-- Health Meter (Streak) -->
-    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">HEALTH[░░░░░]</text>
+    <text x="8" y="44" font-family="monospace" font-size="8" fill="#fff" opacity="0.8">HEALTH[█░░░░]</text>
   </g>
   
 
