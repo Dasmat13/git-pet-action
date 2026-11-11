@@ -171,7 +171,7 @@
         <circle cx="872.0384615384615" cy="181" r="1" fill="#fff"/>
         <circle cx="877.0384615384615" cy="182" r="0.8" fill="#fff"/>
       
-  <path class="plant" d="M 891.3461538461538,210 Q 888.3461538461538,203 891.3461538461538,196 T 894.3461538461538,192" fill="none" stroke="#9b59b6" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="plant" d="M 891.3461538461538,210 Q 888.3461538461538,201 891.3461538461538,192 T 894.3461538461538,188" fill="none" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/>
 
   <!-- Dirt / Grass Ground bed -->
   <rect x="0" y="210" width="900" height="50" fill="#566573"/>
